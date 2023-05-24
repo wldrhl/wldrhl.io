@@ -1,14 +1,14 @@
 {
     "entertainment": {
-      "name": "Pink Gin Iced Tea"
+      "name": "Movies", "Theatre", "Football Game"
     },
     "night": {
-      "name": "Sex on the Beach"
+      "name": "Club", "Concert", "Restaurant"
     },
     "exploring": {
-      "name": "Winter whiskey sour"
+      "name": "Zoo", "Countryside", "Park"
     },
     "culture": {
-      "name": "Negroni sbagliato"
+      "name": "Art Gallery", "City Tour", "Monuments"
     }
   }
