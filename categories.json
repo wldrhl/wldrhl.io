@@ -1,0 +1,14 @@
+{
+  "entertain": {
+    "name": "These are events for you to be provided with amusement or enjoyment."
+  },
+  "night": {
+    "name": "These are events typically done during the night time."
+  },
+  "explore": {
+    "name": "Be in the wilderness and experience nature and the wild."
+  },
+  "culture": {
+    "name": "Come and see history and what the city has to offer."
+  }
+}
