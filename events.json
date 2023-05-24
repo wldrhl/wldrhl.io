@@ -1,0 +1,61 @@
+{
+  "football game": {
+    "name": "Pink Gin Iced Tea",
+    "ingredients": [
+      "1 chamomile tea bag",
+      "100ml pink gin",
+      "100ml spiced rum",
+      "100ml elderflower cordial",
+      "100ml pink grapefruit juice",
+      "ice",
+      "thyme sprigs for garnish"
+    ],
+    "recipe": [
+      "Brew the chamomile tea bag with 500ml boiling water, steep for 2-3 mins or following pack instructions. Remove the bag and leave to cool for 5 mins. ",
+      "Pour into a large jug with the pink gin, rum, elderflower cordial and juice. Add ice and stir, then add the thyme sprigs and stir again before serving. "
+    ]
+  },
+  "movies": {
+    "name": "Sex on the Beach",
+    "ingredients": [
+      "50ml vodka",
+      "25ml peach schnapps",
+      "2 oranges, juiced, plus 2 slices to garnish",
+      "50ml cranberry juice",
+      "optional glacé cherries, to garnish",
+      "ice"
+    ],
+    "recipe": [
+      "Fill two tall glasses with ice cubes. Pour the vodka, peach schnapps and fruit juices into a large jug and stir.",
+      "Divide the mixture between the two glasses and stir gently to combine. Garnish with the cocktail cherries and orange slices."
+    ]
+  },
+  "theatre": {
+    "name": "Winter whiskey sour",
+    "ingredients": [
+      "50ml bourbon",
+      "1 tbsp fresh lemon juice",
+      "1 tbsp fresh orange juice",
+      "½ tbsp sugar syrup",
+      "2 slices of oranges",
+      "ice"
+    ],
+    "recipe": [
+      "Using a small paintbrush, or your finger, brush some honey around the rim of two tumblers and use another small paintbrush to stick edible gold glitter around each.",
+      "Fill each glass with crushed ice. Put the bourbon into a cocktail shaker with the lemon juice, orange juice and sugar syrup. Shake and strain into each glass, and serve with an orange slice and short straws."
+    ]
+  },
+  "theme park": {
+    "name": "Negroni sbagliato",
+    "ingredients": [
+      "25ml Campari",
+      "25ml sweet vermouth",
+      "prosecco to top up",
+      "1 slice of orange",
+      "ice"
+    ],
+    "recipe": [
+      "In a highball glass pour the Campari and sweet vermouth, add cubed ice and gently add in the prosecco, pouring it down a bar or long spoon that's been placed in the glass will stop the bubbles roaming over the edge of the glass. Stir contents of the glass together, top up further and garnish with the orange slice."
+    ]
+  }
+}
