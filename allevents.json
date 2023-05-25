@@ -1,14 +1,14 @@
 {
     "entertain": {
-      "name": "Movies", "Theatre", "Football Game"
+      "name": "Movies, Theatre, Football Game"
     },
     "night time": {
-      "name": "Club", "Concert", "Restaurant"
+      "name": "Club, Concert, Restaurant"
     },
     "exploring": {
-      "name": "Zoo", "Countryside", "Park"
+      "name": "Zoo, Countryside, Park"
     },
     "culture": {
-      "name": "Art Gallery", "City Tour", "Monuments"
+      "name": "Art Gallery, City Tour, Monuments"
     }
   }
