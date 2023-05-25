@@ -1,0 +1,65 @@
+{
+  "monuments": {
+    "name": "At the city centre, come see the citys monuments. Cost is Free."
+  },
+  "city tour": {
+    "name": "Take a tour around the city on a open top bus. Cost is £10"
+  },
+  "art gallery": {
+    "name": "See modern or classical art at the gallery. Cost is Free."
+  },
+  "park": {
+    "name": "Explore nature and have a day out at the park. Cost is Free"
+  },
+  "countryside": {
+    "name": "See the hills and wildlife outside the city. Cost is Free"
+  },
+  "zoo": {
+    "name": "See a large selection of wild animals at the Zoo. Cost is £30"
+  },
+  "restaurant": {
+    "name": "Try the local cuisine or ones from around the world. Cost is from 10 to 40 pounds"
+  },
+  "football game": {
+    "name": "Come and see live football games and be entertained by the world's biggest sport. Cost is £60"
+  },
+  "theatre": {
+    "name": "Live plays on display from Grease to Mama Mia. Cost is £15"
+  },
+  "concert": {
+    "name": "Enjoy Live music from artists that you enjoy. Cost is £50"
+  },
+  "club": {
+    "name": "Explore the nightlife and enjoy a night out with your friends. Cost is £7"
+  },
+  "movies": {
+    "name": "Come and see the latest movies. Cost is £8"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
