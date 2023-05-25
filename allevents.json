@@ -1,8 +1,8 @@
 {
-    "entertainment": {
+    "entertain": {
       "name": "Movies", "Theatre", "Football Game"
     },
-    "night": {
+    "night time": {
       "name": "Club", "Concert", "Restaurant"
     },
     "exploring": {
