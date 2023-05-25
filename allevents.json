@@ -1,14 +1,14 @@
 {
-    "entertain": {
-      "name": "Movies, Theatre, Football Game"
-    },
-    "night time": {
-      "name": "Club, Concert, Restaurant"
-    },
-    "exploring": {
-      "name": "Zoo, Countryside, Park"
-    },
-    "culture": {
-      "name": "Art Gallery, City Tour, Monuments"
-    }
+  "entertain": {
+    "name": "Movies, theatre, football game."
+  },
+  "night time": {
+    "name": "Club, concert, restaurant."
+  },
+  "explore": {
+    "name": "Zoo, countryside, park."
+  },
+  "culture": {
+    "name": "Art Gallery, city tour and monuments."
   }
+}
